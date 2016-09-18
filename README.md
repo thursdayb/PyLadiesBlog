@@ -9,7 +9,7 @@ Write all files as .md please!
 * What types of blog posts fit the PyLadies Blog
 * How to contribute a post — WAIT TO WRITE UNTIL OKAY'D BY THURSDAY
 * What to expect after submitting a post
-* How to write in Markdown
+* [How to write in Markdown](markdown.md)
 * Our style guide
 * Templates for blog posts
 
