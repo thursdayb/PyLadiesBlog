@@ -1,6 +1,8 @@
 # PyLadiesBlog
 Temporary repo for content planning for the PyLadies Blog 
 
+Write all files as .md please!
+
 #Outline
 
 ## Contributor's Guide — For Writers
