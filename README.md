@@ -17,5 +17,8 @@ Write all files as .md please!
 * What to look for in a successful blog post
 * How to ask for changes with empathy
 
+## Contributor's Guide — For Translators
+* How to submit a translation of an existing blog post
+
 
 
