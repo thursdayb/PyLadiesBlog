@@ -21,6 +21,20 @@ Headers give your writing structure, allowing you to create different sections f
 ###### H6
 ```
 
+### Links
+
+Links are made up of square brackets containing the display text for the link, followed by brackets containing the URL.
+
+```
+[PyLadies Website](http://www.pyladies.com/)
+```
+
+The text above is output like: [PyLadies Website](http://www.pyladies.com/)
+
+### Images
+
+### Lists
+
 ## Further reading
 
 - [http://daringfireball.net/projects/markdown/ - The original guide to Markdown](http://daringfireball.net/projects/markdown/)
