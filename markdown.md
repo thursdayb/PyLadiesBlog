@@ -8,17 +8,41 @@ Markdown is a way of formatting plain text to give it additional meaning. It's b
 
 ## How to write text in Markdown
 
+### Emphasis
+
+Emphasis allows you to draw attention to particular bits of text.
+
+```
+*This text will be italic*
+_This will also be italic_
+```
+
+Looks like: *This text will be italic*
+
+```
+**This text will be bold**
+__This will also be bold__
+```
+
+Looks like: **This text will be bold**
+
+```
+_You **can** combine them_
+```
+
+Looks like: _You **can** combine them_
+
 ### Headers
 
 Headers give your writing structure, allowing you to create different sections for your content.
 
 ```
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 ```
 
 ### Links
@@ -29,11 +53,57 @@ Links are made up of square brackets containing the display text for the link, f
 [PyLadies Website](http://www.pyladies.com/)
 ```
 
-The text above is output like: [PyLadies Website](http://www.pyladies.com/)
+Looks like: [PyLadies Website](http://www.pyladies.com/)
 
 ### Images
 
+Images can be added to your Markdown. They follow the Links format, but you add an exclamation mark at the beginning.
+
+```
+![Image of kitten](http://placekitten.com/200/200)
+```
+
+Looks like:
+
+![Image of kitten](http://placekitten.com/200/200)
+
 ### Lists
+
+Lists can either be number listed (ordered) or bullet lists (unordered).
+
+#### Ordered
+
+```
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+```
+
+Looks like:
+
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+
+#### Unordered
+
+```
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+```
+
+Looks like:
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 ## Further reading
 
