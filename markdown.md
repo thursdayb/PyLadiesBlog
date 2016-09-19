@@ -47,7 +47,7 @@ Headers give your writing structure, allowing you to create different sections f
 
 ### Links
 
-Links are made up of square brackets containing the display text for the link, followed by brackets containing the URL.
+Links are made up of square brackets containing the display text for the link, followed by parentheses containing the URL.
 
 ```
 [PyLadies Website](http://www.pyladies.com/)
